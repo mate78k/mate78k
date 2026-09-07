@@ -10,8 +10,7 @@
 - 🌱 Persona disciplinada y con muchas ganas de seguir aprendiendo en el mundo de las TICs
 - 👯 Abierto a colaborar en proyectos de desarrollo web, software y ciberseguridad
 - 📫 Cómo contactarme: 📞 305 337 2411 | ✉️ mateo78k@gmail.com
-- ⚡ Dato curioso: *(agrega el tuyo)*
-
+  
 ### 🛠️ Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=figma,html,java,javascript,python,sql,linux,php,react,nodejs)
