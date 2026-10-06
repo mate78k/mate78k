@@ -9,7 +9,7 @@
 - 🛍️ Estoy trabajando en un proyecto de **ecommerce de ropa**
 - 🌱 Persona disciplinada y con muchas ganas de seguir aprendiendo en el mundo de las TICs
 - 👯 Abierto a colaborar en proyectos de desarrollo web, software y ciberseguridad
-- 📫 Cómo contactarme: 📞 305 337 2411 | ✉️ mateo78k@gmail.com
+
   
 ### 🛠️ Tech Stack
 
